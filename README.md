@@ -41,6 +41,8 @@ Formado em Engenharia da Computação, tenho foco em desenvolvimento de aplicaç
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" >
 </div>
 
+<hr/>
+
 <div align="center">
   <h3>📖 O que estou aprendendo / melhorando atualmente: </h3>
   <br>
@@ -52,6 +54,8 @@ Formado em Engenharia da Computação, tenho foco em desenvolvimento de aplicaç
 </div>
 
 <br/>
+
+<hr/>
 
 <div align="center">
   <img height="180em" src="#"/>
